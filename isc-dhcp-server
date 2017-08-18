@@ -1,3 +1,9 @@
 #/etc/default/isc-dhcp-server
 
 #amend INTERFACES="wlan1"
+
+#OR
+
+#amend INTERFACESv4="wlan1"
+#amend INTERFACESv6="wlan1"
+
